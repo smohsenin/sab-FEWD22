@@ -5,16 +5,18 @@
 	<title>sabrina!
 	</title>
       <link rel="stylesheet" type="text/css" href="stylesheet.css">
-		<ul class="nav">
-				<li>about me!</li> |
+      <div class="nav">
+		<ul>
+				<li>about me!</li>
 				<li><a href="URL">things i've done!</a></li>
-		</uL>
+		</ul>
+	</div>
 </head>
 <body>
 	<div>
-		<h1> salutations
+		<h1> <marquee> ~salutations~ </marquee>
 		</h1>
-		<img src="https://pbs.twimg.com/profile_images/432898774805917696/8qycpAzp.jpeg" alt="me n a beer">
+		<img src="http://i.imgur.com/mlP2hNC.jpg" alt="me n a beer">
 
 
 		<h2>i like the world wide web

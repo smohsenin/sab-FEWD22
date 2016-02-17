@@ -1,5 +1,20 @@
 html {
-	background-color: #b6c7bd;
+	background-color: #FFFFFF;
+}
+
+
+a:link, a:visited {
+    background-color: #7e747e;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: white;
+    color: #7e747e;
 }
 
 ul {
@@ -31,7 +46,7 @@ li {
     margin: 0 auto;
   }
   .nav {
-    background-color: #444;
+    background-color: #7e747e;
   }
  
 
@@ -79,3 +94,16 @@ h3 {
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
 }
+
+ .smo li {
+    float: left;
+  }
+  .smo ul {
+    overflow: auto;
+    width: 600px;
+    margin: 0 auto;
+
+  }
+  .smo {
+    background-color: #7e747e;
+  }
