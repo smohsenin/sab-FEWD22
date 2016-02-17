@@ -22,10 +22,18 @@ li {
 	color:#7e747e;
 }
 
-.active {
-    background-color: #4a174d;
-    color: white;
-}
+  .nav li {
+    float: left;
+  }
+  .nav ul {
+    overflow: auto;
+    width: 600px;
+    margin: 0 auto;
+  }
+  .nav {
+    background-color: #444;
+  }
+ 
 
 title {
 	text-align: center;
