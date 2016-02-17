@@ -45,19 +45,21 @@
         <div class="well">
                    <h2 class="role"><b>Web Developer,</b> Relaxr 2015 - present</h2>
           <p> Developed a multi-column layout blog, landing page, and contact forms that render on mobile devices.</p>
-          <p><img src="http://i.imgur.com/LiSZY2L.png" alt="screenshot"></p>
+          <p><img src="http://i.imgur.com/LiSZY2L.png" alt="relaxr screenshot"></p>
         </div>
       </div>
       <div class="col-md-4 skill">
         <div class="well">
                    <h2 class="role"><b>Web Developer,</b> Startup Matchmaker 2015 - present</h2>
           <p> Used a design team's wireframes to develop this company's responsive homepage.</p>
+          <p><img src="http://i.imgur.com/SpbEmrV.png" alt="startup screenshot"></p>
         </div>
       </div>
       <div class="col-md-4 skill">
         <div class="well">
                    <h2 class="role"><b>Web Developer,</b> CitiPix 2015 - present</h2>
           <p> Built web app prototype that allows users to store and quickly retrieve photos using keywords.</p>
+          <p><img src="http://i.imgur.com/g9NjREg.png" alt="citipix screenshot"></p>
         </div>
       </div>
     </div>
