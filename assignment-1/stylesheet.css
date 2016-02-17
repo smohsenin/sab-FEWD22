@@ -3,15 +3,19 @@ html {
 }
 
 ul {
-    text-align: center;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
+    background-color:white;
 
 }
 
 li {
-	display: inline;
+	float: left;
+	text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 20px;
 	text-align: center;
@@ -33,8 +37,8 @@ title {
 }
 
 img {
-	heighth: 300px
-	width: 300px;
+	heighth: 500px
+	width: 50px;
 	display: block;
     margin-left: auto;
     margin-right: auto 
