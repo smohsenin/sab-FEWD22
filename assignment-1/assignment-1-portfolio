@@ -16,9 +16,9 @@
       <link rel="stylesheet" type="text/css" href="stylesheet.css">
       <div class="nav">
 		<ul>
-				<li><a href="/assignment-1/assignment-1-about.html">about me!</a></li>
 				<li><a href="#">things i've done!</a></li>
-		</ul>
+        <li><a href="/sab-FEWD22/assignment-1/assignment-1-about">about me!</a></li>
+						</ul>
 	</div>
 </head>
 
@@ -27,41 +27,37 @@
 		<h1 class="h-portfolio"> SABRINA MOHSENIN
 		</h1>
 	
-		<h2>experience
-		</h2>
-		<p> I'm currently an Associate Digital Strategist at Grafik in DC and am taking a Front-End Web Development course at General Assembly, in which I'm learning HTML, CSS, JavaScript, and jQuery. In my spare time, I like to cook and eat all kinds of foods, play Minesweeper obsessively, and think about how much I want a pet. 
+				<p class="blurb"> I'm currently an Associate Digital Strategist at Grafik in DC and am taking a Front-End Web Development course at General Assembly, in which I'm learning HTML, CSS, JavaScript, and jQuery. In my spare time, I like to cook and eat all kinds of foods, play Minesweeper obsessively, and think about how much I want a pet. 
 		</p>
-		<h3> portfolio
-		</h3>
+		<h2 class="header"> Portfolio
+		</h2>
 		<ul class="ul-portfolio">
 			<li>
 
 
 				</div>
-	<div class="container">
+	<div class="skill">
     <div class="row">
-      <h2 class="type">Interests</h2>
+      <h3 class="type">Experience</h2>
     </div>
     <div class="row">
       <div class="col-md-4 skill">
         <div class="well">
-          <i class="fa fa-desktop fa-4x"></i>
-          <h2>thing</h2>
-          <p> txt</p>
+                   <h2 class="role"><b>Web Developer,</b> Relaxr 2015 - present</h2>
+          <p> Developed a multi-column layout blog, landing page, and contact forms that render on mobile devices.</p>
+          <p><img src="http://i.imgur.com/LiSZY2L.png" alt="screenshot"></p>
         </div>
       </div>
       <div class="col-md-4 skill">
         <div class="well">
-          <i class="fa fa-camera-retro fa-4x"></i>
-          <h2>thing</h2>
-          <p> txt</p>
+                   <h2 class="role"><b>Web Developer,</b> Startup Matchmaker 2015 - present</h2>
+          <p> Used a design team's wireframes to develop this company's responsive homepage.</p>
         </div>
       </div>
       <div class="col-md-4 skill">
         <div class="well">
-          <i class="fa fa-rebel fa-4x"></i>
-          <h2>thing</h2>
-          <p> txt</p>
+                   <h2 class="role"><b>Web Developer,</b> CitiPix 2015 - present</h2>
+          <p> Built web app prototype that allows users to store and quickly retrieve photos using keywords.</p>
         </div>
       </div>
     </div>
