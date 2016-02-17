@@ -13,8 +13,9 @@ ul {
 li {
 	display: inline;
 	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 25px;
+	font-size: 20px;
 	text-align: center;
+	color:#7e747e;
 }
 
 .active {
@@ -31,22 +32,11 @@ title {
 
 }
 
-div {
-	display: -webkit-flex; /* Safari */
-    -webkit-align-items: center; /* Safari 7.0+ */
-    display: flex;
-    align-items: center;
-    border-style: dotted;
-    border-color: #4a174d ;
-    border-width: 5px;
-    text-align: center;
-}
-
 img {
 	height: 400px
 	width: 400px;
 }
-}
+
 h1 {
 	color: #4a174d;
 	font-size: 40px;
@@ -64,6 +54,13 @@ h2 {
 p{
 	color: #7e747e;
 	font-size: 30px;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+}
+
+h3 {
+	color: #4a174d;
+	font-size: 25px;
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: center;
 }
