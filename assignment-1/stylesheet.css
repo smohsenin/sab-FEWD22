@@ -2,7 +2,7 @@ html {
 	background-color: #b6c7bd;
 }
 
-.nav {
+ul {
 	display: inline;
 	list-style-type: none;
     margin: 0;
@@ -38,12 +38,4 @@ p{
 	color: #7e747e;
 	font-size: 50%;
 	font-family: roboto;
-}
-
-.smo {
-	{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
 }
