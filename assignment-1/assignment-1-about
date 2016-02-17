@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>sabrina!
+	</title>
+		<ul class="nav">
+				<li>about me!</li>
+				<li><a href="URL">things i've done!</a></li>
+		</uL>
+</head>
+<body>
+	<h1> hey wassup hello
+	</h1>
+	<img src="https://pbs.twimg.com/profile_images/432898774805917696/8qycpAzp.jpeg" alt="me n a beer">
+
+
+
+	<h2>i like the world wide web
+	</h2>
+	<p> so i'm learning to build some web myself.
+	</p>
+	<h3>
+		hmu!
+	</h3>
+
+	<ul class="smo">
+		<li>
+			<a href="https://www.facebook.com/sabrina.mohsenin"> fb
+			</a>
+		 </li>
+		<li>
+			<a href="https://www.instagram.com/smohsenin/"> gram
+			</a>
+		</li>
+		<li>
+			<a href="https://www.linkedin.com/in/sabrina-mohsenin-313aa767">linkedin
+			</a>
+		</li> 
+	</ul>
