@@ -23,19 +23,50 @@
 </head>
 
 <body>
-	<div>
+	<div class="portfolio">
 		<h1 class="h-portfolio"> SABRINA MOHSENIN
 		</h1>
-		<p> i'm sabrina </p>
-		<img src="http://i.imgur.com/mlP2hNC.jpg" alt="me n a beer">
-
-
-		<h2>my lil slice of the web
-		</h2>
-		<p> get to know me!
-		</p>
-	</div>
 	
+		<h2>experience
+		</h2>
+		<p> I'm currently an Associate Digital Strategist at Grafik in DC and am taking a Front-End Web Development course at General Assembly, in which I'm learning HTML, CSS, JavaScript, and jQuery. In my spare time, I like to cook and eat all kinds of foods, play Minesweeper obsessively, and think about how much I want a pet. 
+		</p>
+		<h3> portfolio
+		</h3>
+		<ul class="ul-portfolio">
+			<li>
+
+
+				</div>
+	<div class="container">
+    <div class="row">
+      <h2 class="type">Interests</h2>
+    </div>
+    <div class="row">
+      <div class="col-md-4 skill">
+        <div class="well">
+          <i class="fa fa-desktop fa-4x"></i>
+          <h2>Online Marketing</h2>
+          <p>With over five years of professional experience in online marketing and almost three years of management experience, I have become a go-to resource for many things in the online marking industry. I blog twice a month on the Search Influence site about updates in SEO and social media marketing platforms.</p>
+        </div>
+      </div>
+      <div class="col-md-4 skill">
+        <div class="well">
+          <i class="fa fa-camera-retro fa-4x"></i>
+          <h2>Photography</h2>
+          <p>When I'm not busy working, I do a lot of freelance photography work. My client work includes portrait photography with most of my experience in senior portraits and headshots. I have also shot weddings, engagement sessions, and baby announcements. In the past I've been hired by Fueled By Ramen record label to photograph the band Fun. during their US tours.</p>
+        </div>
+      </div>
+      <div class="col-md-4 skill">
+        <div class="well">
+          <i class="fa fa-rebel fa-4x"></i>
+          <h2>Science Fiction</h2>
+          <p>My primary interests outside of work lie in the realm of science fiction movies, games, and books. I'm an avid lover of the Star Wars universe and run a Star Wars fan blog in my free time. I also collect comic books (my favorite artist being Brandon Graham).</p>
+        </div>
+      </div>
+    </div>
+
+    
 	<footer class="navbar navbar-fixed-bottom">
     <div class="container">
       <nav class="navbar-right">
