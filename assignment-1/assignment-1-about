@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
+<html lang="en">
 <head>
 	<title>sabrina!
 	</title>
+      <link rel="stylesheet" type="text/css" href="stylesheet.css">
 		<ul class="nav">
 				<li>about me!</li>
 				<li><a href="URL">things i've done!</a></li>

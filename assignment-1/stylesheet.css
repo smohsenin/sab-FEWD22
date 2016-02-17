@@ -1,5 +1,17 @@
 html {
-	background-color: black;
+	background-color: #b6c7bd;
+}
+
+.nav {
+	display: inline;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.active {
+    background-color: #4a174d;
+    color: white;
 }
 
 title {
@@ -8,4 +20,30 @@ title {
 	font-family: roboto;
 	font-weight: bold;
 
+}
+
+h1 {
+	color: #4a174d;
+	font-size: 100%;
+	font-family: roboto;
+}
+
+h2 {
+	color: #4a174d;
+	font-size: 100%;
+	font-family: roboto;
+}
+
+p{
+	color: #7e747e;
+	font-size: 50%;
+	font-family: roboto;
+}
+
+.smo {
+	{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 }
