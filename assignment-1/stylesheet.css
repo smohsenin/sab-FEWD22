@@ -6,10 +6,13 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+
 }
 
 li {
 	display: inline;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 25px;
 }
 
 .active {
@@ -19,26 +22,26 @@ li {
 
 title {
 	color: #4a174d;
-	font-size: 200%;
-	font-family: roboto;
+	font-size: 60px;
+	font-family: Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 
 }
 
 h1 {
 	color: #4a174d;
-	font-size: 100%;
-	font-family: roboto;
+	font-size: 40px;
+	font-family: Tahoma, Geneva, sans-serif;
 }
 
 h2 {
 	color: #4a174d;
-	font-size: 100%;
-	font-family: roboto;
+	font-size: 40px;
+	font-family: Tahoma, Geneva, sans-serif;
 }
 
 p{
 	color: #7e747e;
-	font-size: 50%;
-	font-family: roboto;
+	font-size: 30px;
+	font-family: Tahoma, Geneva, sans-serif;
 }
